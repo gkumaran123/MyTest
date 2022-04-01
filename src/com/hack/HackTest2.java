@@ -13,7 +13,7 @@ public class HackTest2  extends Teacher{
 	
 	public static void main(String[] args) {
 		Teacher teacher = new HackTest2();
-		/teacher.show();
+		//teacher.show();
 	}
 
 }
